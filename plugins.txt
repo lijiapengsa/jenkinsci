@@ -10,7 +10,7 @@ pipeline-rest-api:1.5
 windows-slaves:1.1
 ws-cleanup:0.29
 pipeline-input-step:2.0
-script-security:1.20
+script-security:1.21
 subversion:2.6
 rebuild:1.25
 structs:1.2
@@ -32,7 +32,7 @@ workflow-basic-steps:2.0
 ssh:2.4
 workflow-step-api:2.2
 durable-task:1.11
-pipeline-build-step:2.1
+pipeline-build-step:2.2
 ldap:1.12
 workflow-job:2.3
 run-condition:1.0
@@ -57,7 +57,7 @@ bearychat:2.1
 jquery-detached:1.2.1
 matrix-auth:1.4
 bouncycastle-api:1.648.3
-workflow-support:2.1
+workflow-support:2.2
 workflow-multibranch:2.8
 cloudbees-folder:5.12
 git-client:1.19.6
