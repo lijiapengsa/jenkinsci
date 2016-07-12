@@ -68,3 +68,4 @@ git:2.5.2
 github:1.19.2
 github-branch-source:1.8.1
 github-organization-folder:1.3
+naginator:1.17.1
