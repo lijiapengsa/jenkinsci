@@ -1,0 +1,8 @@
+jenkinsci_master:
+  image: 'haha123/jenkinsci:latest'
+  restart: always
+  ports:
+      - '192.168.1.247:8080:8080'
+      - '192.168.1.247:50000:50000'
+  volumes:
+      - /data/jenkins:/var/jenkins_home
