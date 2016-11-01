@@ -34,7 +34,6 @@ durable-task
 dynamic_extended_choice_parameter
 dynamicparameter
 email-ext
-email-ext.bak
 emailext-template
 embeddable-build-status
 envinject
@@ -50,7 +49,6 @@ git-changelog
 git-client
 github
 github-api
-github.bak
 github-branch-source
 github-oauth
 github-organization-folder
