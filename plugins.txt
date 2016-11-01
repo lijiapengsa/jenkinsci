@@ -16,8 +16,6 @@ branch-api
 build-name-setter
 build-timeout
 checkstyle
-cloudbees-credentials
-cloudbees-folder
 cobertura
 conditional-buildstep
 config-file-provider
