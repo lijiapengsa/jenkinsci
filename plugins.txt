@@ -151,3 +151,4 @@ pipeline-model-definition
 pipeline-stage-step 
 pipeline-graph-analysis 
 docker-plugin
+docker-workflow
